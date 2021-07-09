@@ -198,7 +198,7 @@
          "value":""
         }],
  "renderorder":"right-down",
- "tiledversion":"1.4.3",
+ "tiledversion":"1.6.0",
  "tileheight":32,
  "tilesets":[
         {
@@ -2350,7 +2350,7 @@
         {
          "columns":67,
          "firstgid":10868,
-         "image":"..\/ndf_stage03\/Tiles\/Boden_W\u00e4nde_etc\/Room_Builder_32x32.png",
+         "image":"Tiles\/Boden_W\u00e4nde_etc\/Room_Builder_32x32.png",
          "imageheight":1952,
          "imagewidth":2144,
          "margin":0,
@@ -15035,6 +15035,6 @@
         }],
  "tilewidth":32,
  "type":"map",
- "version":1.4,
+ "version":"1.6",
  "width":24
 }
