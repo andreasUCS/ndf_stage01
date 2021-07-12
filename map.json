@@ -25,7 +25,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"https:\/\/stream.nuernberg.digital\/pk\/"
+                 "value":"https:\/\/stream.nuernberg.digital\/johannis\/"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -198,7 +198,7 @@
          "value":""
         }],
  "renderorder":"right-down",
- "tiledversion":"1.6.0",
+ "tiledversion":"1.4.3",
  "tileheight":32,
  "tilesets":[
         {
@@ -2349,6 +2349,6 @@
         }],
  "tilewidth":32,
  "type":"map",
- "version":"1.6",
+ "version":1.4,
  "width":24
 }
