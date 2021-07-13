@@ -193,9 +193,9 @@
  "orientation":"orthogonal",
  "properties":[
         {
-         "name":"jjitsiRoom",
+         "name":"script",
          "type":"string",
-         "value":""
+         "value":"https:\/\/pi4.e6azumuvyiabvs9s.myfritz.net\/mapserver\/nue-script.js"
         }],
  "renderorder":"right-down",
  "tiledversion":"1.4.3",
